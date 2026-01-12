@@ -1,4 +1,4 @@
-# MHNB Starter Kit (PostgreSQL + Hono + Next.js + Bun)
+# PHNB Starter Kit (PostgreSQL + Hono + Next.js + Bun)
 
 This project is a starter template featuring a **Bun + Hono + Prisma (PostgreSQL)** backend (Server) and a **Next.js** frontend (Client).
 
